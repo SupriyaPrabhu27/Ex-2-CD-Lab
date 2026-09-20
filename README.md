@@ -73,7 +73,8 @@ int yywrap() {
 ```
 # OUTPUT
 
-<img width="1176" height="737" alt="Screenshot 2026-08-06 140256" src="https://github.com/user-attachments/assets/a7fc7566-636d-4ce3-bb59-421130f2823f" />
+<img width="1584" height="993" alt="image" src="https://github.com/user-attachments/assets/5870d971-18c9-4d5d-a111-ff33f579baaf" />
+
 
 
 
